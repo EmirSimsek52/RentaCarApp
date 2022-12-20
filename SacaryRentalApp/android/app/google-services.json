@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "521591753823",
+    "project_id": "rental-12643",
+    "storage_bucket": "rental-12643.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521591753823:android:3defcd9822d87bd2361fea",
+        "android_client_info": {
+          "package_name": "com.sacaryrentalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521591753823-vqk8uubuvirmf27uasml7t24qonaocfg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFzGMJ2hGLLEvhqjYjnXgzQ6XN0RMKeuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521591753823-vqk8uubuvirmf27uasml7t24qonaocfg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
