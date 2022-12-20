@@ -11,4 +11,4 @@
 7. You can see all pages from the Wiki </p>
 <h1>Where is the datas?<h1/>
 All datas registere from firebase firestore. All car information have a another collection and updates are made here.
-Sıgn up procces just make from database cause just bussines owners can use the admin function, this way is the safest way to protect informations.
+Sıgn up procces just make from database cause just bussines owners can use the admin functions, this way is the safest way to protect informations.
