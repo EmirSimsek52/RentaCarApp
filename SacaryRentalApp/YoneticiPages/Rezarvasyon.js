@@ -112,31 +112,5 @@ const styles = StyleSheet.create({
     }
 })
 
-/*
-  {data && (
-                
-            <View style={{flex:1,flexDirection:'column'}}>
-                  
-          {data.map(item => (
-            <View key={item.id} style={{marginBottom:20}}>
-            <Text style={styles.text} >MARKA: {item.Marka}</Text>
-            <Text style={styles.text}>AD SOYAD: {item.AdSoyad}</Text>
-            <Text style={styles.text}>TELEFON NO: {item.Telno}</Text>
-            <Text style={styles.text} >GÜN: {item.Day}</Text>
-            <Text style={styles.text} >YER: {item.Yer}</Text>
-            <Text style={styles.text}>ZAMAN: {item.Zaman}</Text>
-            <TouchableOpacity   onPress={() => {deletePost()}}>
-                <Text style={styles.buton2}>Rezarvasyonu Sil</Text>
-            </TouchableOpacity>
-            </View>
-          ))}
-          
-        </View>
-      )}
-       const readPosts = async () => {
-        const snapshot = await firebase.firestore().collection('deneme').get();
-        const posts = snapshot.docs.map(doc => doc.data());
-        setData(posts);
-      }
-            
-       */
+
+       
