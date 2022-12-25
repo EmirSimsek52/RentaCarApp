@@ -1,7 +1,7 @@
 # RentaCarApp
  A rent a car app with react-native and firebase(database).</p>
  All pages available from the Wiki part.
-<h1>About App<h1/>
+<h1>About App</h1>
 1. This app for customers and business owners.</p>
 2. Customers just send their information and what they want car model,location,time and how long it takes.</p>
 3. Customers can see which car avaiilable and car details.</p>
