@@ -9,6 +9,6 @@
 5. Administrator can see reservation that customers send information and delete them from database(firebase firestore)</p>
 6. Administrator can see cars and update the cars details and can see new details  from customers cars page and administrator cars page.</p>
 7. You can see all pages from the Wiki </p>
-<h1>Where is the datas?<h1/>
+<h1>Where is the datas?</h1>
 All datas registere from firebase firestore. All car information have a another collection and updates are made here.
 Sıgn up procces just make from database cause just bussines owners can use the admin functions, this way is the safest way to protect informations.
